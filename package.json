@@ -4,14 +4,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Parwinder-Kaur03.github.io/Invoice-System",
   "scripts": {
     "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "homepage": "https://Parwinder-Kaur03.github.io/Invoice-System"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.11",
